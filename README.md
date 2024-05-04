@@ -1,6 +1,7 @@
 ![FOTO](\Users\juanazpiazubeitia\Desktop)
 
-Juan Azpiazu Beitia
+##Juan Azpiazu Beitia
+
 Experto en ventas y marketing hotelero | 
 
 Email / Website / LinkedIn / GitHub / Twitter / DEV
@@ -75,87 +76,3 @@ Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct
 Freelance Writer (Mar 2020 - Present)
 Regular contributor to Sex for Every Body. Other articles in Autostraddle, Silicon Allee, Curve Magazine, and elsewhere.
 
-
-Contributing Editor @ FLURT Magazine (Mar 2016 - Sep 2018)
-Magazine for socially conscious young people who want to create their own media.
-
-Wrote over 20 articles for print and web focused on technology and activism
-Edited and curated online-exclusive content
-Selected articles:
-The War on Sex
-What to Do if You Get Doxed
-How Marijuana Can Improve Your Health
-
-📌 Volunteering
-EU Conference Team Member @ Write the Docs (Jul 2019 - Present)
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-
-Emceed the last in-person event in 2019 and the first virtual event in 2020
-Introduced speakers and faciliated Q&A sessions
-
-Workshop Lead @ New Devs on the Block (Jul 2019 - Dec 2021)
-Free, two-day workshops to help people build their first website.
-
-Creating a curriculum that covers HTML, CSS and a bit of JavaScript
-Preparing supplemental presentations on topics like accessibility and animations
-Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak
-
-Web Development Instructor @ ReDI School of Digital Integration (Feb 2017 - Aug 2021)
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-
-Built and continuously developed the course curriculum with a team of 4-8 other instructors
-Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-Mentored students through presentations and job search
-Note: Took a break from teaching in 2019
-
-Co-Organizer @ QueerJS (Jun 2019 - Dec 2021)
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-
-Selected speakers and scheduling events
-Fostered an inclusive community and enforced the code of conduct
-🐻 Previously co-organized BerlinJS from May 2018 - May 2020
-
-🎤 Public Speaking
-Recent Appearances
-JSHeroes live in Cluj 🇷🇴 (Jun 9, 2022)
-Humanizing Your Documentation
-
-single-threaded Podcast (released on Mar 31, 2021)
-Crying at work
-
-
-Want me to speak at your event?
-💖 Check out my website for more information.
-
-
-🏆 Accomplishments
-Won First Place @ Rainbows End Sex Tech Hackathon (May 2021)
-Built Tentilex, a wearable armband that records your hand movement and generates a live 3D-model.
-
-Top Author Recognition @ DEV (2019 - 2020)
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-
-How to remove condescending language from documentation
-Onboarding a junior developer to your team? Here's 12 tips.
-
-Won Best Project @ Geek Girl Carrots Berlin Hackathon (Oct 2017)
-Created Qarma, an online platform to report and retrieve lost & found objects for travelers abroad.
-
-
-💬 Languages
-🇺🇸 English: Native
-🇩🇪 German: B1
-
-
-👩🏼‍🎓 Education
-12-week intensive coding course focused on full-stack JavaScript
-SPICED Academy - Berlin, Germany (Apr 2017 - Jun 2017)
-
-Bachelor of Arts in Journalism and Media Studies
-Beloit College - Beloit, Wisconsin, USA (2011 - 2015)
-
-Washington Semester Program for Journalism and New Media
-American University - Washington DC, USA (Fall 2014)
-
-International Exchange studying Political Science
-Yeditepe Üniversitesi - Istanbul, Turkey (Spring 2013)
