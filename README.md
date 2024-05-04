@@ -1,7 +1,6 @@
-Una versión digital de mi perfil profesional
 
-Juan Azpiazu
-Experto en ventas y marketing hotelero | Market Director Iberia 🇩🇪
+Juan Azpiazu Beitia
+Experto en ventas y marketing hotelero | 
 
 Email / Website / LinkedIn / GitHub / Twitter / DEV
 
