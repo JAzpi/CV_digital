@@ -1,4 +1,4 @@
-¡[FOTO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Fin%2Fjuan-azpiazu-beitia&psig=AOvVaw18WPPwVhc4tf4ap29Q8utH&ust=1714907477209000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiRnrDu84UDFQAAAAAdAAAAABAE)
+¡[FOTO](/Users/juanazpiazubeitia/Desktop)
 Juan Azpiazu Beitia
 Experto en ventas y marketing hotelero | 
 
