@@ -1,4 +1,4 @@
-![FOTO](\Users\juanazpiazubeitia\Desktop)
+![FOTO](sanmames_cabecero.jpeg)
 
 ##Juan Azpiazu Beitia
 
