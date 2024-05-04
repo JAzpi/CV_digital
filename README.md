@@ -1,4 +1,4 @@
-¡[FOTO](\Users\juanazpiazubeitia\Desktop)
+![FOTO](\Users\juanazpiazubeitia\Desktop)
 Juan Azpiazu Beitia
 Experto en ventas y marketing hotelero | 
 
